@@ -11,6 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="14ed6088-f6be-405c-8674-88e3289d3ec7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597430529563</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Actualizacion">
+      <created>1597436543487</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1597436543487</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -172,7 +180,8 @@
     <MESSAGE value="actualizacion interfaz login" />
     <MESSAGE value="Actualizar activity main y strings.xml" />
     <MESSAGE value="Ajuste activity_main.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajuste activity_main.xml" />
+    <MESSAGE value="Actualizacion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actualizacion" />
   </component>
   <component name="WindowStateProjectService">
     <state x="380" y="185" key="AndroidCreateResourceFileDialog" timestamp="1597427980755">
@@ -183,10 +192,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="658" y="243" key="AndroidCreateXmlResourceDialog/0.0.1600.860@0.0.1600.860" timestamp="1597428998809" />
-    <state x="432" y="24" key="CommitChangelistDialog2" timestamp="1597430527519">
+    <state x="432" y="24" key="CommitChangelistDialog2" timestamp="1597436540605">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="432" y="24" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1597430527519" />
+    <state x="432" y="24" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1597436540605" />
     <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1597425506673">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -207,10 +216,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1597426723301" />
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1597430536302">
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1597436556085">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1597430536302" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1597436556085" />
     <state x="477" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1597436062287">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
